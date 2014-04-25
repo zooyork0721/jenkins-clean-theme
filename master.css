@@ -1,9 +1,9 @@
 body {
-    background: #F0F0F0 !important;
+    background: #b266b2 !important;
 }
 
 #top-panel {
-    height: 37px !important;
+    height: 40px !important;
     background: #036;
 }
 
@@ -21,7 +21,7 @@ body {
 }
 
 #breadcrumbs {
-    background: #326ca6;
+    background: #b266b2;
     border-top: 1px solid #036;
     border-bottom: none !important;
     margin-bottom: 10px;
@@ -93,7 +93,7 @@ body {
 
 #footer {
     border-top-color: #ddd !important;
-    background: #F0F0F0 !important;
+    background: #b266b2 !important;
     color: #505050 !important;
 }
 
