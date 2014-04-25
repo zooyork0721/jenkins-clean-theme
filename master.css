@@ -4,7 +4,7 @@ body {
 
 #top-panel {
     height: 40px !important;
-    background: #036;
+    background: #b266b2;
 }
 
 #top-panel td #login-field span a {
@@ -22,18 +22,18 @@ body {
 
 #breadcrumbs {
     background: #b266b2;
-    border-top: 1px solid #036;
+    border-top: 1px solid #b266b2;
     border-bottom: none !important;
     margin-bottom: 10px;
     padding-left: 8px !important;
 }
 
 #breadcrumbs li a {
-    color: #fff !important;
+    color: #b266b2 !important;
 }
 
 #breadcrumbs li a {
-    color: #fff !important;
+    color: #b266b2 !important;
 }
 
 #breadcrumbs li a:hover {
@@ -43,7 +43,7 @@ body {
 }
 
 #right-top-nav  a {
-    color: #fff !important;
+    color: #b266b2 !important;
     margin-top: 1px;
     text-decoration: none;
     display: block;
@@ -52,12 +52,12 @@ body {
 }
 
 #right-top-nav  a:hover {
-    background: white;
+    background: #b266b2;
     color: black !important;
 }
 
 #main-table {
-    background: white !important;
+    background: #b266b2 !important;
     background-image: none !important;
     height: 100% !important;
 }
@@ -107,11 +107,11 @@ a {
 }
 
 #login-field a {
-	color: white !important;
+	color: #b266b2 !important;
 }
 
 #login-field > span > a {
-    color: white !important;
+    color: #b266b2 !important;
     font-weight: normal !important;
 }
 
@@ -163,7 +163,7 @@ table.pane > tbody > tr > td:last-child {
 }
 
 td.active {
-    background: white !important;
+    background: #b266b2 !important;
     color: #326ca6 !important;
     padding-bottom: 2px !important;
 }
@@ -194,7 +194,7 @@ td {
 }
 
 td.inactive:hover {
-    background: white !important;
+    background: #b266b2 !important;
 }
 
 #side-panel {
@@ -362,7 +362,7 @@ li.children {
 li.children:hover {
     border-top: 4px solid transparent !important;
     border-bottom: 4px solid transparent !important;
-    border-left: 5px solid #036 !important;
+    border-left: 5px solid #b266b2 !important;
 }
 
 li.item :first-of-type {
